@@ -1,1 +1,2 @@
-# java-core-hw-tmpl
+# java-core-hw-12
+Багатопоточність
