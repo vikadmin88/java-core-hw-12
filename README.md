@@ -1,2 +1,2 @@
 # java-core-hw-12
-Багатопоточність
+Багатопоточність. SchedulerRaw, SchedulerExecutor, FizzBuzzMultiThreads
